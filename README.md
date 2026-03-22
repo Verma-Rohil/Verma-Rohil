@@ -1,41 +1,41 @@
-# 👋 Hi, I’m Rohil Verma  
+# Rohil Verma's Professional Template
 
-## Business Analyst  
+## 🚀 About Me
+* Business Analyst with hands-on experience in data analysis and project management.
 
-![Animated Header](https://example.com/animated-header)  
+## 📚 Tech Stack
+<details>
+<summary>Click to expand</summary>
 
-### Dynamic Typing Effect  
+- **Languages:** Python, SQL, R, JavaScript
+- **Frameworks:** React, Flask
+- **Tools:** Tableau, Power BI, Excel
 
-[![Profile Badge](https://img.shields.io/badge/LinkedIn-Rohil%20Verma-blue)](https://www.linkedin.com/in/rohil-v1/)  
+</details>
 
-## About Me  
+## 🛠️ Featured Projects
+| Project Name | Description | Link |
+|--------------|-------------|------|
+| Project A    | Description A | [Link](#) |
+| Project B    | Description B | [Link](#) |
 
-I am a Business Analyst with a passion for leveraging data to drive insightful decision-making. My experience spans various industries, enabling me to tackle complex challenges with innovative solutions.  
+## 📈 GitHub Stats
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Verma-Rohil&show_icons=true&theme=radical)
 
-## 🌐 Tech Stack  
-- **Machine Learning & AI**: Python, R, TensorFlow  
-- **Data Science & Analytics**: SQL, Tableau, Excel  
-- **Cloud & DevOps**: AWS, Azure, Docker  
-- **Databases & Backend**: PostgreSQL, MongoDB, Node.js  
-- **Web Development & Tools**: HTML, CSS, JavaScript, Git  
+## 🌐 Contribution Activity
+![Contribution Activity](https://activity-graph.herokuapp.com/graph?username=Verma-Rohil&theme=react-dark)
 
-## Featured Projects  
-| Project Name       | Description                       | Link                     |
-|--------------------|-----------------------------------|--------------------------|
-| Project 1          | Business Analytics Dashboard       | [View here](https://github.com) |
-| Project 2          | Sales Forecasting Model           | [View here](https://github.com) |
+## 🐍 Snake Animation
+![Snake Animation](https://raw.githubusercontent.com/VishwaGauravIn/git-animated-snake/master/assets/snake.svg)
 
-## GitHub Analytics  
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Verma-Rohil&show_icons=true&hide_title=true)  
-![Streak Count](https://github-readme-streak-stats.herokuapp.com/?user=Verma-Rohil)  
+## 📅 3D Calendar
+[![3D Calendar](https://img.shields.io/badge/3D_Calendar-Here-blue)](https://your-calendar-link.com)
 
-## Coding Activity  
-![Contribution Heatmap](https://visualization.link)  
+## 💬 Random Quotes
+> "The best time to plant a tree was 20 years ago. The second best time is now."
 
-## 🤔 Random Dev Quote  
-> "Code is like humor. When you have to explain it, it’s bad."  
+## 🔗 Connect with Me
+- [LinkedIn](https://www.linkedin.com/in/rohil-v1/)
+- [Email](mailto:pvt.rohil@gmail.com)
 
-## Connect with Me:  
-- LinkedIn: [Rohil Verma](https://www.linkedin.com/in/rohil-v1/)  
-- Email: [pvt.rohil@gmail.com](mailto:pvt.rohil@gmail.com)  
-- Location: India  
+---
