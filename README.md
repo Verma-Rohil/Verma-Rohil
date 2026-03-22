@@ -1,41 +1,43 @@
-# Rohil Verma's Professional Template
+# Hi there, I'm Rohil Verma! 👋
 
-## 🚀 About Me
-* Business Analyst with hands-on experience in data analysis and project management.
+## 📊 My GitHub Stats
 
-## 📚 Tech Stack
+![My GitHub Stats](https://github-readme-stats.vercel.app/api?username=Verma-Rohil&show_icons=true&theme=radical)
+
+## 💻 Tech Stack
+
 <details>
-<summary>Click to expand</summary>
+<summary>Click to see my tech stack</summary>
 
-- **Languages:** Python, SQL, R, JavaScript
+- **Languages:** Python, SQL, JavaScript
 - **Frameworks:** React, Flask
-- **Tools:** Tableau, Power BI, Excel
+- **Databases:** MySQL, MongoDB
+- **Tools:** Git, Docker, JIRA
 
 </details>
 
-## 🛠️ Featured Projects
-| Project Name | Description | Link |
-|--------------|-------------|------|
-| Project A    | Description A | [Link](#) |
-| Project B    | Description B | [Link](#) |
+## 🌟 Featured Projects
 
-## 📈 GitHub Stats
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Verma-Rohil&show_icons=true&theme=radical)
+| Project Name | Description | Tech Stack |
+| ------------ | ----------- | ---------- |
+| Project 1    | A brief description about Project 1. | Python, Flask |
+| Project 2    | A brief description about Project 2. | React, Node.js |
 
-## 🌐 Contribution Activity
-![Contribution Activity](https://activity-graph.herokuapp.com/graph?username=Verma-Rohil&theme=react-dark)
+## 📈 GitHub Analytics
 
-## 🐍 Snake Animation
-![Snake Animation](https://raw.githubusercontent.com/VishwaGauravIn/git-animated-snake/master/assets/snake.svg)
+![GitHub Analytics](https://github.com/Verma-Rohil/github-profile-views-counter)
 
-## 📅 3D Calendar
-[![3D Calendar](https://img.shields.io/badge/3D_Calendar-Here-blue)](https://your-calendar-link.com)
+## 🎮 Coding Activity
 
-## 💬 Random Quotes
-> "The best time to plant a tree was 20 years ago. The second best time is now."
+![Rohil’s Contribution Graph](https://github.com/Verma-Rohil/github-activity-graph.svg)
 
-## 🔗 Connect with Me
-- [LinkedIn](https://www.linkedin.com/in/rohil-v1/)
-- [Email](mailto:pvt.rohil@gmail.com)
+![Snake Animation](https://github.com/RohilVerma/SnakeAnimation)
 
----
+## 💬 Random Dev Quote
+
+> "The best way to predict the future is to invent it." - Alan Kay
+
+## 📫 Connect with Me
+
+- [LinkedIn](https://www.linkedin.com/in/rohil-verma)
+- [Twitter](https://twitter.com/rohil_verma)
