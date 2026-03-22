@@ -1,23 +1,41 @@
-# Hello, I'm Rohil Verma! 👋 
+# 👋 Hi, I’m Rohil Verma  
 
-## About Me
-I am a Business Analyst based in India, passionate about analyzing data to help businesses make informed decisions. My goal is to bridge the gap between technology and business needs, leveraging data to drive strategic insights.
+## Business Analyst  
 
-## Tech Stack
-- **Languages:** Python, SQL, JavaScript
-- **Data Tools:** Tableau, Excel, Power BI
-- **Training:** Data Analysis, Business Intelligence, Project Management
+![Animated Header](https://example.com/animated-header)  
 
-## Featured Projects
-- **Project 1:** [Project Title](link to project) - Description of the project and your role in it.
-- **Project 2:** [Project Title](link to project) - Description of the project and your role in it.
+### Dynamic Typing Effect  
 
-## GitHub Analytics
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Verma-Rohil&show_icons=true&theme=radical)
+[![Profile Badge](https://img.shields.io/badge/LinkedIn-Rohil%20Verma-blue)](https://www.linkedin.com/in/rohil-v1/)  
 
-## Coding Activity
-![GitHub Activity Graph](https://activity-graph.herokuapp.com/graph?username=Verma-Rohil&bg_color=ffffff&color=333333&line=4a94f0&point=4c91fa&area=true&hide_border=true)
+## About Me  
 
-## Connect with Me
-- **LinkedIn:** [Rohil Verma](https://www.linkedin.com/in/rohil-v1/)
-- **Email:** [pvt.rohil@gmail.com](mailto:pvt.rohil@gmail.com)
+I am a Business Analyst with a passion for leveraging data to drive insightful decision-making. My experience spans various industries, enabling me to tackle complex challenges with innovative solutions.  
+
+## 🌐 Tech Stack  
+- **Machine Learning & AI**: Python, R, TensorFlow  
+- **Data Science & Analytics**: SQL, Tableau, Excel  
+- **Cloud & DevOps**: AWS, Azure, Docker  
+- **Databases & Backend**: PostgreSQL, MongoDB, Node.js  
+- **Web Development & Tools**: HTML, CSS, JavaScript, Git  
+
+## Featured Projects  
+| Project Name       | Description                       | Link                     |
+|--------------------|-----------------------------------|--------------------------|
+| Project 1          | Business Analytics Dashboard       | [View here](https://github.com) |
+| Project 2          | Sales Forecasting Model           | [View here](https://github.com) |
+
+## GitHub Analytics  
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Verma-Rohil&show_icons=true&hide_title=true)  
+![Streak Count](https://github-readme-streak-stats.herokuapp.com/?user=Verma-Rohil)  
+
+## Coding Activity  
+![Contribution Heatmap](https://visualization.link)  
+
+## 🤔 Random Dev Quote  
+> "Code is like humor. When you have to explain it, it’s bad."  
+
+## Connect with Me:  
+- LinkedIn: [Rohil Verma](https://www.linkedin.com/in/rohil-v1/)  
+- Email: [pvt.rohil@gmail.com](mailto:pvt.rohil@gmail.com)  
+- Location: India  
