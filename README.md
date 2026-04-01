@@ -14,7 +14,7 @@ I'm a **Data Analyst** skilled in transforming raw, large-scale datasets into **
 
 - I build **ETL pipelines** (Python, SQL), design optimized **star schema data warehouses** (MySQL), and deliver interactive **Power BI dashboards**
 - Experienced across **e-commerce analytics, financial compliance (AML/KYC),** and **D2C retail** domains
--    Pursuing **M.Tech in Data Science** at NIT Jalandhar | **GATE Qualified** | Teaching Assistant
+-    Pursuing **M.Tech in Data Science and Engineering** at NIT Jalandhar | **GATE Qualified** | Teaching Assistant
 -    Previously analyzed **50,000+ D2C transactions** as a Data Analyst Intern, reducing manual reporting effort by **40%**
 
 -    ---
