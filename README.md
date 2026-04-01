@@ -1,43 +1,63 @@
-# Hi there, I'm Rohil Verma! 👋
+<h1 align="center">Hi, I'm Rohil Verma</h1>h1>
 
-## 📊 My GitHub Stats
+<p align="center">
+  <strong>Data Analyst</strong>strong> | SQL | Python | Power BI | ETL | Star Schema Design<br>
+    M.Tech in Data Science - NIT Jalandhar (GATE Qualified)
+</p>p>
 
-![My GitHub Stats](https://github-readme-stats.vercel.app/api?username=Verma-Rohil&show_icons=true&theme=radical)
+<p align="center">
+  <a href="https://www.linkedin.com/in/rohil-v1/">
+        <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn">
+  </a>a>
+    <a href="mailto:pvt.rohil@gmail.com">
+          <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email">
+    </a>a>
+</p>p>
 
-## 💻 Tech Stack
+---
 
-<details>
-<summary>Click to see my tech stack</summary>
+### About Me
 
-- **Languages:** Python, SQL, JavaScript
-- **Frameworks:** React, Flask
-- **Databases:** MySQL, MongoDB
-- **Tools:** Git, Docker, JIRA
+I'm a **Data Analyst** skilled in transforming raw, large-scale datasets into **actionable business intelligence** through end-to-end data solutions.
 
-</details>
+- I build **ETL pipelines** (Python, SQL), design optimized **star schema data warehouses** (MySQL), and deliver interactive **Power BI dashboards**
+- - Experienced across **e-commerce analytics, financial compliance (AML/KYC),** and **D2C retail** domains
+  - - Pursuing **M.Tech in Data Science** at NIT Jalandhar | **GATE Qualified** | Teaching Assistant
+    - - Previously analyzed **50,000+ D2C transactions** as a Data Analyst Intern, reducing manual reporting effort by **40%**
+     
+      - ---
 
-## 🌟 Featured Projects
+      ### Featured Projects
 
-| Project Name | Description | Tech Stack |
-| ------------ | ----------- | ---------- |
-| Project 1    | A brief description about Project 1. | Python, Flask |
-| Project 2    | A brief description about Project 2. | React, Node.js |
+      **[Financial AML and KYC Compliance System](https://github.com/Verma-Rohil/Banking_AML_PowerBI_Dashboard)** - End-to-end Anti-Money Laundering pipeline on **1.14M+ transactions** with star schema warehouse, statistical anomaly detection (Z-Score, IQR, Rolling Window), multi-factor risk scoring, and a 4-page Power BI compliance dashboard. Built with MySQL, Python, Power BI, DAX.
 
-## 📈 GitHub Analytics
+      **[E-Commerce BI and Customer Analytics](https://github.com/Verma-Rohil/Brazilian-Olist-Ecommerce-BI-and-Customer-Analytics-Dashboard)** - Full BI platform on **100K+ real orders** with star schema (4 dim + 4 fact tables), automated ETL, RFM segmentation (K-Means), Welch's t-test correlation analysis, and a 4-page interactive Power BI dashboard tracking $15.8M revenue. Built with MySQL, Python, Scikit-learn, Power BI.
 
-![GitHub Analytics](https://github.com/Verma-Rohil/github-profile-views-counter)
+      ---
 
-## 🎮 Coding Activity
+      ### Tech Stack
 
-![Rohil’s Contribution Graph](https://github.com/Verma-Rohil/github-activity-graph.svg)
+      | Category | Tools |
+      |----------|-------|
+      | **Languages** | Python, SQL |
+      | **AI / ML** | Scikit-learn, Statistical Modeling, Anomaly Detection, K-Means, Hypothesis Testing |
+      | **Data** | Pandas, NumPy, SciPy, ETL Pipelines |
+      | **Visualization** | Power BI (DAX, Power Query), Advanced Excel (Pivot Tables, VLOOKUP), Matplotlib, Seaborn |
+      | **Database** | MySQL, Star Schema Design, Stored Procedures, Window Functions, CTEs |
 
-![Snake Animation](https://github.com/RohilVerma/SnakeAnimation)
+      ---
 
-## 💬 Random Dev Quote
+      ### GitHub Stats
 
-> "The best way to predict the future is to invent it." - Alan Kay
+      <p align="center">
+        <img src="https://github-readme-stats.vercel.app/api?username=Verma-Rohil&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" height="170">
+          <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Verma-Rohil&layout=compact&theme=tokyonight&hide_border=true" height="170">
+      </p>p>
 
-## 📫 Connect with Me
+      ---
 
-- [LinkedIn](https://www.linkedin.com/in/rohil-verma)
-- [Twitter](https://twitter.com/rohil_verma)
+      <p align="center">
+        <img src="https://komarev.com/ghpvc/?username=Verma-Rohil&color=0e75b6&style=flat-square&label=Profile+Views" alt="Profile Views">
+      </p>p>
+      
+  </strong>
