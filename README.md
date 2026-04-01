@@ -1,18 +1,9 @@
-<<h1 align="center">Hi, I'm Rohil Verma</h1>
+# Hi, I'm Rohil Verma
 
-<p align="center">
-  <strong>Data Analyst</strong>strong> | SQL | Python | Power BI | ETL | Star Schema Design<br>
-    M.Tech in Data Science - NIT Jalandhar (GATE Qualified)
-</p>p>
+**Data Analyst** | SQL | Python | Power BI | ETL | Star Schema Design
+M.Tech in Data Science - NIT Jalandhar (GATE Qualified)
 
-<p align="center">
-  <a href="https://www.linkedin.com/in/rohil-v1/">
-        <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn">
-  </a>a>
-    <a href="mailto:pvt.rohil@gmail.com">
-          <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email">
-    </a>a>
-</p>p>
+[LinkedIn](https://www.linkedin.com/in/rohil-v1/) | [Email](mailto:pvt.rohil@gmail.com)
 
 ---
 
@@ -49,15 +40,10 @@ I'm a **Data Analyst** skilled in transforming raw, large-scale datasets into **
 
       ### GitHub Stats
 
-      <p align="center">
-        <img src="https://github-readme-stats.vercel.app/api?username=Verma-Rohil&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" height="170">
-          <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Verma-Rohil&layout=compact&theme=tokyonight&hide_border=true" height="170">
-      </p>p>
+      ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Verma-Rohil&show_icons=true&theme=tokyonight&hide_border=true&count_private=true)
+      ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Verma-Rohil&layout=compact&theme=tokyonight&hide_border=true)
 
       ---
 
-      <p align="center">
-        <img src="https://komarev.com/ghpvc/?username=Verma-Rohil&color=0e75b6&style=flat-square&label=Profile+Views" alt="Profile Views">
-      </p>p>
+      ![Profile Views](https://komarev.com/ghpvc/?username=Verma-Rohil&color=0e75b6&style=flat-square&label=Profile+Views)
       
-  </strong>
