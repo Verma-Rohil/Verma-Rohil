@@ -1,4 +1,4 @@
-<h1 align="center">Hi, I'm Rohil Verma</h1>h1>
+<<h1 align="center">Hi, I'm Rohil Verma</h1>
 
 <p align="center">
   <strong>Data Analyst</strong>strong> | SQL | Python | Power BI | ETL | Star Schema Design<br>
