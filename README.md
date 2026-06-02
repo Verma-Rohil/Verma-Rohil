@@ -1,41 +1,69 @@
-# Hi, I'm Rohil Verma
+# Hi, I'm Rohil Verma 👋
 
-**Data Analyst** | SQL | Python | Power BI | ETL | Star Schema Design
+I'm a **Data Scientist** and M.Tech student at **NIT Jalandhar** (GATE qualified). I specialize in building end-to-end predictive modeling systems, machine learning architectures, and scalable data pipelines. 
 
-M.Tech in Data Science - NIT Jalandhar (GATE Qualified)
-
-[LinkedIn](https://www.linkedin.com/in/rohil-v1/) | [Email](mailto:pvt.rohil@gmail.com)
+I don't just train models in notebooks; I love building the systems that make them useful in the real world—from designing database-agnostic ETL engines to serving low-latency APIs and creating interactive analysis dashboards.
 
 ---
 
-## About Me
+### 🚀 What I'm Focused On
 
-I'm a **Data Analyst** skilled in transforming raw, large-scale datasets into **actionable business intelligence** through end-to-end data solutions.
-
-- I build **ETL pipelines** (Python, SQL), design optimized **star schema data warehouses** (MySQL), and deliver interactive **Power BI dashboards**
-- Experienced across **e-commerce analytics, financial compliance (AML/KYC),** and **D2C retail** domains
--    Pursuing **M.Tech in Data Science and Engineering** at NIT Jalandhar | **GATE Qualified** | Teaching Assistant
--    Previously analyzed **50,000+ D2C transactions** as a Data Analyst Intern, reducing manual reporting effort by **40%**
-
--    ---
-
-## Featured Projects
-
-[**Financial AML and KYC Compliance System**](https://github.com/Verma-Rohil/Banking_AML_PowerBI_Dashboard) - End-to-end Anti-Money Laundering pipeline on **1.14M+ transactions** with star schema warehouse, statistical anomaly detection (Z-Score, IQR, Rolling Window), multi-factor risk scoring, and a 4-page Power BI compliance dashboard. Built with MySQL, Python, Power BI, DAX.
-
-[**E-Commerce BI and Customer Analytics**](https://github.com/Verma-Rohil/Brazilian-Olist-Ecommerce-BI-and-Customer-Analytics-Dashboard) - Full BI platform on **100K+ real orders** with star schema (4 dim + 4 fact tables), automated ETL, RFM segmentation (K-Means), Welch's t-test correlation analysis, and a 4-page interactive Power BI dashboard tracking $15.8M revenue. Built with MySQL, Python, Scikit-learn, Power BI.
+* **Customer Intelligence & Retention:** Mining transaction data to identify churn risk early, explain behavioral drivers using SHAP, and detect fraud or reseller anomalies using PyTorch Autoencoders.
+* **NLP & Knowledge Graphs:** Extracting semantic structure from raw text, caching vector embeddings for fast retrieval, and modeling how industry disruptions ripple through skill taxonomies.
+* **Risk-Aware Time-Series:** Combining sequence models (LSTMs) and cross-sectional mixers to build predictive trading systems with strict drawdown safety constraints.
 
 ---
 
-## Tech Stack
+### 🛠️ Tech Stack & Toolkit
 
-| Category | Tools |
-|----------|-------|
+| Category | Tools & Technologies |
+| --- | --- |
 | **Languages** | Python, SQL |
-| **AI / ML** | Scikit-learn, Statistical Modeling, Anomaly Detection, K-Means, Hypothesis Testing |
-| **Data** | Pandas, NumPy, SciPy, ETL Pipelines |
-| **Visualization** | Power BI (DAX, Power Query), Advanced Excel (Pivot Tables, VLOOKUP), Matplotlib, Seaborn |
-| **Database** | MySQL, Star Schema Design, Stored Procedures, Window Functions, CTEs |
+| **Machine Learning & AI** | Scikit-learn, XGBoost, PyTorch, SHAP, Optuna, SVM, Clustering, Anomaly Detection |
+| **Data Engineering & Databases** | MySQL, SQLite, Star Schema Design, Stored Procedures, CTEs, Window Functions, ETL Pipelines |
+| **API & Backend Development** | FastAPI, SQLite Fallbacks, SQLAlchemy, Pydantic, RESTful APIs |
+| **Data Visualization & Analytics** | Power BI, Advanced Excel, Plotly, Seaborn, Matplotlib |
+
+---
+
+### 🔬 Highlighted Projects
+
+#### 📊 [Customer Intelligence & Retention Platform](https://github.com/Verma-Rohil/customer-intelligence-platform)
+An end-to-end enterprise Customer Data Platform (CDP) & MLOps system built on 100K+ transactional records.
+* **Explainable Churn Engine:** Trained a tuned XGBoost classifier (**0.92 ROC-AUC, 0.82 F1**) and integrated SHAP explanation models to detail the top 3 drivers behind every single churn prediction.
+* **Anomaly Detection:** Deployed a PyTorch undercomplete Autoencoder to learn latent buyer behavior and isolate reseller accounts or voucher abuse.
+* **Defensive Engineering:** Created a database-agnostic ETL engine (MySQL with automatic SQLite fallback) and served real-time endpoints via FastAPI with pre-rendered static JSON snapshots for zero-downtime serving.
+* **Stack:** Python, PyTorch, XGBoost, SHAP, FastAPI, MySQL, SQLite, React, Tailwind CSS
+
+#### 🧠 [Skill Genome & Career Intelligence Platform](https://github.com/Verma-Rohil/skill-genome-platform)
+An NLP and graph-based platform that maps the relationships between skills, job requirements, and industry shifts.
+* **Sub-5ms Vector Queries:** Parsed 10K+ postings with a custom sliding-window phrase matcher and stored pre-cached Sentence-BERT embeddings in MySQL for rapid semantic search.
+* **Disruption Simulator:** Modeled technology propagation using a 2-hop simulation engine powered by conditional probabilities $P(B|A)$ as transition weights.
+* **Interactive Frontend:** Built an interactive React dashboard to visualize skill taxonomies, tech disruptions, and career pathways.
+* **Stack:** Python, Sentence-BERT, FastAPI, MySQL, React, Plotly.js
+
+#### 📈 [Risk-Aware Algorithmic Trading: A Hybrid StockMixer-LSTM Ensemble](https://github.com/Verma-Rohil)
+*Published and presented at ICICST 2026 (NIT Jalandhar)*
+* **Hybrid Architecture:** Developed a swing trading framework combining an LSTM branch for sequence dependencies and a StockMixer branch for cross-sectional technical indicators, achieving a **4x speedup** over traditional Transformer encoders.
+* **Deterministic Guardrails:** Implemented an Exponential Moving Average (EMA) state machine for dynamic exit protocols, reducing Maximum Drawdown (MDD) from **38.4% to 11.48%** under walk-forward validation.
+
+---
+
+### 💼 Professional Experience & Education
+
+* **M.Tech in Data Science & Engineering** | *NIT Jalandhar* (Aug 2024 -- Present)
+  * GATE Qualified | Serving as a Graduate Teaching Assistant.
+* **Data Analyst Intern** | *KCPC Bandhani* (Apr 2025 -- Sept 2025)
+  * Analyzed 50,000+ D2C transactions, reducing slow-moving inventory by 18% through Pareto-based SKU optimization, and automated reporting pipelines to save 40% of manual effort.
+* **Logical Reasoning Teacher** | *Solutions Academy* (2020 -- 2023)
+  * Educated 150+ students in logical reasoning, data interpretation, and quantitative aptitude.
+
+---
+
+### 📫 Connect with Me
+
+* 👔 [LinkedIn](https://www.linkedin.com/in/rohil-v1/)
+* 📧 [Email](mailto:pvt.rohil@gmail.com)
 
 ---
 
