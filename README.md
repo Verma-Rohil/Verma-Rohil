@@ -1,6 +1,6 @@
 # Hi, I'm Rohil Verma 👋
 
-I'm a **Data Scientist** and M.Tech student at **NIT Jalandhar** (GATE qualified). I specialize in building end-to-end predictive modeling systems, machine learning architectures, and scalable data pipelines. 
+I'm a **Data Scientist** and M.Tech student at **NIT Jalandhar**. I specialize in building end-to-end predictive modeling systems, machine learning architectures, and scalable data pipelines. 
 
 I don't just train models in notebooks; I love building the systems that make them useful in the real world—from designing database-agnostic ETL engines to serving low-latency APIs and creating interactive analysis dashboards.
 
